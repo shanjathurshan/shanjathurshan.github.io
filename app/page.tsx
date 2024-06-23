@@ -7,7 +7,7 @@ export default function Home() {
       url: 'https://github.com/shanjathurshan'
     },
     {
-      name: 'linkedIn',
+      name: 'linkedin',
       url: 'https://www.linkedin.com/in/shanjathurshan/'
     },
     {
@@ -23,7 +23,7 @@ export default function Home() {
       url: 'https://x.com/shan_jathurshan'
     },
     {
-      name: 'tikTok',
+      name: 'tiktok',
       url: 'https://www.tiktok.com/@shanjathu'
 }
   ];
