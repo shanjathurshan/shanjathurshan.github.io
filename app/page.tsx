@@ -7,23 +7,23 @@ export default function Home() {
       url: 'https://github.com/shanjathurshan'
     },
     {
-      name: 'LinkedIn',
+      name: 'linkedIn',
       url: 'https://www.linkedin.com/in/shanjathurshan/'
     },
     {
-      name: 'Instagram',
+      name: 'instagram',
       url: 'https://www.instagram.com/shan_jathurshan/'
     },
     {
-      name: 'Facebook',
+      name: 'facebook',
       url: 'https://www.facebook.com/shanjathurshan01'
     },
     {
-      name: 'Twitter',
+      name: 'twitter',
       url: 'https://x.com/shan_jathurshan'
     },
     {
-      name: 'TikTok',
+      name: 'tikTok',
       url: 'https://www.tiktok.com/@shanjathu'
 }
   ];
@@ -43,7 +43,7 @@ export default function Home() {
         />
         <h1 className="text-[38px] font-bold text-primary-50 pt-4">Shan Jathurshan</h1>
         <h2 className="text-[24px] text-primary-100">Software Engineer</h2>
-        
+
 
         <div className="pt-5 text-left">
           <h3 className=" text-primary-50 w-24 border border-primary-100 rounded-md text-center">About me!</h3>
